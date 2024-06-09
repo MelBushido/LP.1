@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # INVESTIGATING THE INDIAN ECOSYSTEM FOR A STARTUP
 ## Business Understanding
 
@@ -6,6 +5,5 @@ In this project, I am going to focus on the details of funding for these start-u
 ## Importing The Necessary Libraries
 =======
 # LP.1
-INDIAN START-UP ECOSYSTEM
 
->>>>>>> 034d38581eeb4850141ec233536c360da6c2c05f
+Article link, https://medium.com/@daigurenfc/indian-startup-ecosystem-survey-ab3d1223cc65
